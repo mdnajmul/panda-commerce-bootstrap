@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+header {
+    background: #E5E5E5;
+}
+
+.menu {
+    color: #707070;
+}
+
+.search-form {
+    position: relative;
+    width: 500px;
+}
+
+.search-form .fa-search {
+    position: absolute;
+    top: 13px;
+    right: 20px;
+    color: #9ca3af
+}
+
+.search-form span {
+    position: absolute;
+    top: 13px;
+    padding: 2px;
+    border-left: 1px solid #d1d5db
+}
