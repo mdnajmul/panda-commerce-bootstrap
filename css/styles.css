@@ -4,6 +4,10 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
+.radius-15 {
+    border-radius: 15px;
+}
+
 header {
     background: #E5E5E5;
 }
@@ -42,4 +46,21 @@ header {
 
 .slider-btn {
     background-color: #FF136F;
+}
+
+.cat1-bg {
+    background-image: linear-gradient(to bottom, #FF9C35, #FFD019);
+}
+
+.cat2-bg {
+    background-image: linear-gradient(to bottom, #FF589B, #FF136F);
+}
+
+.cat3-bg {
+    background-image: linear-gradient(to bottom, #4289FF, #3F07F8);
+}
+
+.cat-img {
+    height: 90px;
+    width: 80px;
 }
