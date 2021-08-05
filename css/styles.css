@@ -30,3 +30,16 @@ header {
     padding: 2px;
     border-left: 1px solid #d1d5db
 }
+
+.slider-bg {
+    background: #FEEAE9;
+}
+
+.price {
+    color: #FF136F;
+    font-size: 41px;
+}
+
+.slider-btn {
+    background-color: #FF136F;
+}
