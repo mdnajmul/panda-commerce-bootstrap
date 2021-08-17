@@ -9,6 +9,10 @@ body {
 }
 
 header {
+    background: #F4F4F4;
+}
+
+main {
     background: #E5E5E5;
 }
 
