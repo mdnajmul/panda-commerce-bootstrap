@@ -1,5 +1,7 @@
+/* google poppins fonts */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
 
+/* basic/common css styles */
 body {
     font-family: 'Poppins', sans-serif;
 }
@@ -16,6 +18,13 @@ main {
     background: #E5E5E5;
 }
 
+footer {
+    background: #E5E5E5;
+}
+
+/* -------------------------- */
+
+/* nav section stye */
 .menu {
     color: #707070;
 }
@@ -39,6 +48,9 @@ main {
     border-left: 1px solid #d1d5db
 }
 
+/* ------------------------ */
+
+/* slider banner section styles */
 .slider-bg {
     background: #FEEAE9;
 }
@@ -52,6 +64,9 @@ main {
     background-color: #FF136F;
 }
 
+/* --------------------------- */
+
+/* categories section styles */
 .cat1-bg {
     background-image: linear-gradient(to bottom, #FF9C35, #FFD019);
 }
@@ -68,3 +83,5 @@ main {
     height: 90px;
     width: 80px;
 }
+
+/* ------------------------------ */
